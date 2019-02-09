@@ -1,0 +1,72 @@
+h1 {font-weight: bold;}
+h1{font-size: xx-large}
+h1 {color:gainsboro}
+
+h2 {font-variant: small-caps;}
+h2 {color: black}
+h2 {font-size: medium;}
+
+h3{font-variant: small-caps;}
+h3 {color: black}
+h3 {font-size: medium;}
+
+h4{font-variant: small-caps;}
+h4 {color: black}
+h4 {font-size: large;}
+h4 {border:1px solid black;}
+
+a{font-size: small}
+a{font-family: serif }
+
+p{font-family: monospace}
+p{font-size: x-large}
+p{font-weight: normal}
+
+p1{font-family: monospace}
+p1{font-size: large}
+p1 div{padding: 10px }
+
+h5{font-variant: small-caps;}
+h5 {color: black}
+h5 {font-size: 30px;}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 20px;
+    background: white;
+    max-width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  th {
+    font-size: 24px
+    font-weight: normal;
+    border-bottom: 2px solid #000000;
+    border-right: 30px solid #fff;
+    border-left: 30px solid #fff;
+    color: #000000;
+    padding: 8px 2px;
+  }
+  td {
+    font-size: 24px
+    border-right: 30px solid #fff;
+    border-left: 30px solid #fff;
+    color: #808080;
+    padding: 12px 2px;
+  }
+   a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 3px 5px;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    font-size: 17px;
+    font-family: 'Fredoka One', cursive;
+    transition: .3s ease-in-out;
+    s1:hover {
+        border-bottom: 1px solid #00000; 
+        border-top: 1px solid #00000; 
+       }
+
+      
